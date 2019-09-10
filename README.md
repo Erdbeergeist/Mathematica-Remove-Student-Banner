@@ -1,5 +1,6 @@
 # Mathematica-Remove-Student-Banner
-Simple Script to remove the annoying Student Banner in Mathematica 12
+Simple Script to remove the annoying Student Banner in Mathematica 12.
+
 Will likely also work for other versions of Mathematica, maybe with some small tweaks.
 
 ## Usage
